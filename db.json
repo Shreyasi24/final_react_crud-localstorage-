@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Shourya Roy Chowdhury",
+      "email": "asdd@dfgf",
+      "position": "mr"
+    },
+    {
+      "id": 2,
+      "name": "Piyali sen",
+      "email": "piyali@gmail.com",
+      "position": "singer"
+    }
+  ]
+}
